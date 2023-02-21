@@ -1,5 +1,5 @@
 <template>
-  <section class="hero-bg py-64">
+  <section class="hero-bg py-52">
     <div>
       <Navbar class="mt-4" />
     </div>
@@ -32,6 +32,10 @@
         alt=""
         class="w-8 h-8 mx-auto mt-4"
       />
+
+      <div class="mt-10 border border-white rounded-full w-6 h-10 mx-auto">
+        <p class="text-white font-bold text-xs animate-bounce">.</p>
+      </div>
     </div>
   </section>
 </template>

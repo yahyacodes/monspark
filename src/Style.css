@@ -4,6 +4,12 @@
   background-repeat: no-repeat;
 }
 
+.features-bg {
+  background-image: url(/src//assets/monspark-features-bg-01.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .header-tag {
   font-size: clamp(0rem, 0rem + 10vw, 4rem);
   font-weight: 800;
@@ -12,6 +18,12 @@
 .container {
   padding: 0 1rem;
   max-width: 70rem;
+  margin: 0 auto;
+}
+
+.container-ft {
+  padding: 0 1rem;
+  max-width: 58rem;
   margin: 0 auto;
 }
 
