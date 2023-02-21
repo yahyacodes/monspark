@@ -13,14 +13,30 @@
         </div>
       </div>
       <!--  -->
-      <div class="columns-2 gap-0">
-        <img src="../assets/monspark-status.png" alt="" class="h-29 w-28" />
-        <h1 class="text-white font-bold text-4xl">
-          Ensure Trust and Minimize <br />
-          Confussion with <span class="text-purple-600">Status Pages</span>
-        </h1>
+      <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
+        <img
+          src="../assets/monspark-status.png"
+          alt=""
+          class="mb-3 h-28 w-28 mx-14 -mt-5"
+        />
+        <div class="-mx-96">
+          <h1 class="mb-3 text-white text-5xl font-bold">
+            Ensure Trust and Minimize <br />
+            Confussion with
+            <span class="text-purple-600">Status Pages</span>
+            <p class="text-gray-400 text-xl mt-5">
+              Keep your customers informed with customizable status pages hosted
+              on <br />
+              your own domain, providing real-time updates on incidents, outages
+              and <br />
+              status of your services.
+            </p>
+          </h1>
+        </div>
       </div>
       <!--  -->
+
+      <!-- <div class="bg-black/20 shadow-rounded mx-auto w-full"></div> -->
     </div>
   </section>
 </template>
