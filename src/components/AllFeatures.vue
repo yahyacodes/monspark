@@ -23,66 +23,78 @@
 
       <div class="flex flex-wrap mt-28">
         <div class="w-full md:w-1/3 lg:w-1/3 px-3">
-          <div class="w-72 h-96 max-w-sm rounded-lg shadow bg-gray-800">
+          <div class="w-72 max-w-sm rounded-lg shadow bg-gray-800">
             <a href="#">
               <img
                 class="p-8 rounded-3xl mt-10 mb-10"
-                src="../assets/monspark-users-grenn-tick.png"
+                src="../assets/uptime-monitoring.jpg"
                 alt="product image"
               />
             </a>
             <div class="px-5 pb-5">
               <h2 class="text-xl font-semibold tracking-tight text-white">
-                Sign Up
+                Uptime Monitoring
               </h2>
 
               <p class="text-gray-500 text-base font-semibold mt-4">
-                Totally free. No credit card or payment required. Join the
-                thousands of people from all over the world.
+                Uptime monitoring is an imporant aspect of your company's
+                website, as downtime can cost you both money and reputation.
+              </p>
+              <p class="text-gray-500 text-base font-semibold mt-4">
+                <fa icon="book-open" />
+                <span class="uppercase"> learm more</span>
               </p>
             </div>
           </div>
         </div>
 
         <div class="w-full md:w-1/3 lg:w-1/3 px-3">
-          <div class="w-72 h-96 max-w-sm rounded-lg shadow bg-gray-800">
+          <div class="w-72 max-w-sm rounded-lg shadow bg-gray-800">
             <a href="#">
               <img
                 class="p-8 rounded-3xl mt-10 mb-10"
-                src="../assets/monspark-search.png"
+                src="../assets/ping-monitoring.jpeg"
                 alt="product image"
               />
             </a>
-            <div class="px-5 pb-5">
+            <div class="px-5 pb-8">
               <h2 class="text-xl font-semibold tracking-tight text-white">
-                Start Monitoring
+                Ping Monitoring
               </h2>
 
               <p class="text-gray-500 text-base font-semibold mt-4">
-                No complicated setup-just enter the URL of a website and
-                MonSpark will do the rest.
+                Ping monitoring provides information about the health of your
+                network infrastructure, including latency and packet lost
+              </p>
+              <p class="text-gray-500 text-base font-semibold mt-4">
+                <fa icon="book-open" />
+                <span class="uppercase"> learm more</span>
               </p>
             </div>
           </div>
         </div>
 
         <div class="w-full md:w-1/3 lg:w-1/3 px-3">
-          <div class="w-72 h-96 max-w-sm rounded-lg shadow bg-gray-800">
+          <div class="w-72 max-w-sm rounded-lg shadow bg-gray-800">
             <a href="#">
               <img
                 class="p-8 rounded-3xl mt-10 mb-10"
-                src="../assets/monspark-notification.png"
+                src="../assets/ssl-monitoring.jpeg"
                 alt="product image"
               />
             </a>
-            <div class="px-5 pb-5">
+            <div class="px-5 pb-8">
               <h2 class="text-xl font-semibold tracking-tight text-white">
-                Get Notified
+                SSL Monitoring
               </h2>
 
               <p class="text-gray-500 text-base font-semibold mt-4">
-                Website is down...it happenes. If your site experiences an
-                outage, we'll send you email alerts or slack notification.
+                SSL certificates expire. Ensure your visitors aren't forced to
+                leave your site because of expired SSL certificates.
+              </p>
+              <p class="text-gray-500 text-base font-semibold mt-4">
+                <fa icon="book-open" />
+                <span class="uppercase"> learm more</span>
               </p>
             </div>
           </div>
@@ -91,7 +103,7 @@
       <div class="text-center">
         <button
           type="button"
-          class="text-white bg-blue-700 font-medium rounded-full text-sm px-5 py-2 text-center mx-auto mt-10"
+          class="text-white bg-blue-700 font-medium rounded-full text-base px-5 py-4 text-center mx-auto mt-10"
         >
           Browse All Features
         </button>

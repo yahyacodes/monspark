@@ -10,6 +10,18 @@
   background-repeat: no-repeat;
 }
 
+.globe-bg {
+  background-image: url(/src//assets/monspark-globe-bg-modified-01.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.status-bg {
+  background-image: url(/src//assets/monspark-status-bg-01.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .header-tag {
   font-size: clamp(0rem, 0rem + 10vw, 4rem);
   font-weight: 800;

@@ -80,7 +80,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -160,7 +160,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -240,7 +240,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -320,7 +320,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -406,7 +406,7 @@
           <div class="flex items-center mb-2 mt-5">
             <img
               class="h-16 w-16 rounded-full object-cover"
-              src="https://randomuser.me/api/portraits/men/11.jpg"
+              src="../assets/monspark-free.jpg"
               alt=""
             />
             <div class="pl-4">
@@ -486,7 +486,7 @@
           <div class="flex items-center mb-2 mt-5">
             <img
               class="h-16 w-16 rounded-full object-cover"
-              src="https://randomuser.me/api/portraits/men/11.jpg"
+              src="../assets/monspark-free.jpg"
               alt=""
             />
             <div class="pl-4">
@@ -566,7 +566,7 @@
           <div class="flex items-center mb-2 mt-5">
             <img
               class="h-16 w-16 rounded-full object-cover"
-              src="https://randomuser.me/api/portraits/men/11.jpg"
+              src="../assets/monspark-free.jpg"
               alt=""
             />
             <div class="pl-4">
@@ -646,7 +646,7 @@
           <div class="flex items-center mb-2 mt-5">
             <img
               class="h-16 w-16 rounded-full object-cover"
-              src="https://randomuser.me/api/portraits/men/11.jpg"
+              src="../assets/monspark-free.jpg"
               alt=""
             />
             <div class="pl-4">
@@ -726,7 +726,7 @@
           <div class="flex items-center mb-2 mt-5">
             <img
               class="h-16 w-16 rounded-full object-cover"
-              src="https://randomuser.me/api/portraits/men/11.jpg"
+              src="../assets/monspark-free.jpg"
               alt=""
             />
             <div class="pl-4">
@@ -810,7 +810,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -890,7 +890,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -970,7 +970,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
@@ -1050,7 +1050,7 @@
             <div class="flex items-center mb-2 mt-5">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://randomuser.me/api/portraits/men/11.jpg"
+                src="../assets/monspark-free.jpg"
                 alt=""
               />
               <div class="pl-4">
