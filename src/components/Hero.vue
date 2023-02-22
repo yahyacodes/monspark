@@ -1,21 +1,20 @@
 <template>
   <section class="hero-bg py-52">
     <div>
-      <Navbar class="mt-4" />
+      <Navbar />
     </div>
 
     <div class="container text-center">
-      <h1 class="header-tag text-white leading-none -mt-20">
-        Focus on your app, <br />
-        leave monitoring to <br />
-        <span class="text-purple-500">Monspark</span>
+      <h1 class="header-tag text-white-smoke leading-none -mt-20">
+        Focus on your app, leave monitoring to
+        <span class="text-regal-blue">Monspark</span>
       </h1>
       <img
         src="../assets/monspark-users-croped.png"
         alt=""
         class="w-40 mx-auto mt-10"
       />
-      <p class="text-white mx-auto font-semibold text-base mt-4">
+      <p class="text-white-smoke mx-auto font-semibold text-base mt-4">
         Loved by teams from 110+ countries
       </p>
       <button
@@ -33,8 +32,10 @@
         class="w-8 h-8 mx-auto mt-4"
       />
 
-      <div class="mt-10 border border-white rounded-full w-6 h-10 mx-auto">
-        <p class="text-white font-bold text-xs animate-bounce">.</p>
+      <div
+        class="mt-10 border border-white-smoke rounded-full w-6 h-10 mx-auto"
+      >
+        <p class="text-white-smoke font-bold text-xs animate-bounce">.</p>
       </div>
     </div>
   </section>

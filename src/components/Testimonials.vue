@@ -1,15 +1,15 @@
 <template>
-  <section class="bg-gray-900 py-40">
+  <section class="ts-bg py-40">
     <div class="container-ts">
       <div class="text-center">
-        <h1 class="font-bold text-white text-5xl mx-auto">
-          Our Customers love what <br />
+        <h1 class="font-bold text-white-smoke text-5xl mx-auto">
+          Our Customers <span class="text-pink-color">love</span> what <br />
           we do
         </h1>
       </div>
 
       <div class="flex flex-wrap mt-20">
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -73,7 +73,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -89,7 +89,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -153,7 +153,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -169,7 +169,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -233,7 +233,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -249,7 +249,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -313,7 +313,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -335,7 +335,7 @@
     <!--  -->
 
     <div class="flex flex-wrap mt-5">
-      <div class="w-full md:w-1/2 lg:w-1/5 px-3">
+      <div class="w-full md:w-1/2 lg:w-1/5 px-3 mb-5">
         <div class="p-8 bg-gray-800 shadow rounded-3xl">
           <div class="flex items-center mt-2.5 mb-5">
             <svg
@@ -399,7 +399,7 @@
               ></path>
             </svg>
           </div>
-          <p class="text-sm font-bold text-gray-100">
+          <p class="text-sm font-bold text-white-smoke">
             Greate monitoring service for having a good overview of all sites of
             your agency
           </p>
@@ -415,7 +415,7 @@
           </div>
         </div>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/5 px-3">
+      <div class="w-full md:w-1/2 lg:w-1/5 px-3 mb-5">
         <div class="p-8 bg-gray-800 shadow rounded-3xl">
           <div class="flex items-center mt-2.5 mb-5">
             <svg
@@ -479,7 +479,7 @@
               ></path>
             </svg>
           </div>
-          <p class="text-sm font-bold text-gray-100">
+          <p class="text-sm font-bold text-white-smoke">
             Greate monitoring service for having a good overview of all sites of
             your agency
           </p>
@@ -495,7 +495,7 @@
           </div>
         </div>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/5 px-3">
+      <div class="w-full md:w-1/2 lg:w-1/5 px-3 mb-5">
         <div class="p-8 bg-gray-800 shadow rounded-3xl">
           <div class="flex items-center mt-2.5 mb-5">
             <svg
@@ -559,7 +559,7 @@
               ></path>
             </svg>
           </div>
-          <p class="text-sm font-bold text-gray-100">
+          <p class="text-sm font-bold text-white-smoke">
             Greate monitoring service for having a good overview of all sites of
             your agency
           </p>
@@ -575,7 +575,7 @@
           </div>
         </div>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/5 px-3">
+      <div class="w-full md:w-1/2 lg:w-1/5 px-3 mb-5">
         <div class="p-8 bg-gray-800 shadow rounded-3xl">
           <div class="flex items-center mt-2.5 mb-5">
             <svg
@@ -639,7 +639,7 @@
               ></path>
             </svg>
           </div>
-          <p class="text-sm font-bold text-gray-100">
+          <p class="text-sm font-bold text-white-smoke">
             Greate monitoring service for having a good overview of all sites of
             your agency
           </p>
@@ -655,7 +655,7 @@
           </div>
         </div>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/5 px-3">
+      <div class="w-full md:w-1/2 lg:w-1/5 px-3 mb-5">
         <div class="p-8 bg-gray-800 shadow rounded-3xl">
           <div class="flex items-center mt-2.5 mb-5">
             <svg
@@ -719,7 +719,7 @@
               ></path>
             </svg>
           </div>
-          <p class="text-sm font-bold text-gray-100">
+          <p class="text-sm font-bold text-white-smoke">
             Greate monitoring service for having a good overview of all sites of
             your agency
           </p>
@@ -739,7 +739,7 @@
 
     <div class="container-ts">
       <div class="flex flex-wrap mt-5">
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -803,7 +803,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -819,7 +819,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -883,7 +883,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -899,7 +899,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -963,7 +963,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>
@@ -979,7 +979,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 lg:w-1/4 px-3">
+        <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-5">
           <div class="p-8 bg-gray-800 shadow rounded-3xl">
             <div class="flex items-center mt-2.5 mb-5">
               <svg
@@ -1043,7 +1043,7 @@
                 ></path>
               </svg>
             </div>
-            <p class="text-sm font-bold text-gray-100">
+            <p class="text-sm font-bold text-white-smoke">
               Greate monitoring service for having a good overview of all sites
               of your agency
             </p>

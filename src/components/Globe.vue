@@ -1,11 +1,11 @@
 <template>
   <section class="globe-bg py-40">
     <div class="container">
-      <div class="text-end">
-        <h1 class="text-5xl font-bold text-white mx-auto">
-          <span class="text-purple-600">MonSpark</span>
-          helps businesses <br />
-          <span class="mx-36"> from 110+ countries. </span>
+      <div class="mb-2 max-w-2xl">
+        <h1 class="text-5xl font-bold text-white-smoke mx-auto">
+          <span class="text-regal-blue">MonSpark</span>
+          helps businesses
+          <span class=""> from 110+ countries. </span>
         </h1>
       </div>
       <div class="text-center">
@@ -16,79 +16,81 @@
           Get started for free
         </button>
 
-        <div class="flex flex-wrap mt-20">
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/turk-telekom-logo-removebg-preview.png"
-              alt=""
-              class="w-32"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/turkiye-sigorta-logo-removebg-preview.png"
-              alt=""
-              class="w-36 mt-3"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/promyze-logo-01-removebg-preview.png"
-              alt=""
-              class="w-32"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/auditrunner-logo-removebg-preview.png"
-              alt=""
-              class="w-20"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/workrunner-logo-removebg-preview.png"
-              alt=""
-              class="w-32"
-            />
+        <div class="md:flex md:justify-between mt-10">
+          <div class="grid grid-cols-2 gap-10 sm:gap-6 sm:grid-cols-5">
+            <div>
+              <img
+                src="../assets/turk-telekom-logo-removebg-preview.png"
+                alt=""
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/turkiye-sigorta-logo-removebg-preview.png"
+                alt=""
+                class="mt-4"
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/promyze-logo-01-removebg-preview.png"
+                alt=""
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/auditrunner-logo-removebg-preview.png"
+                alt=""
+                class="w-32 hidden md:flex"
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/workrunner-logo-removebg-preview.png"
+                alt=""
+                class="mt-4"
+              />
+            </div>
           </div>
         </div>
 
-        <div class="flex flex-wrap mt-10">
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/pitgrowth-logo-removebg-preview.png"
-              alt=""
-              class="w-32"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/malwation-logo-removebg-preview.png"
-              alt=""
-              class="w-36 mt-3"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/gais-logo-removebg-preview.png"
-              alt=""
-              class="w-14"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/turkiye-hayat-emeklilik-logo-removebg-preview.png"
-              alt=""
-              class="w-48 -mx-10"
-            />
-          </div>
-          <div class="w-full md:w-1/2 lg:w-1/5 px-3">
-            <img
-              src="../assets/nanbis-logo-removebg-preview.png"
-              alt=""
-              class="w-32"
-            />
+        <div class="md:flex md:justify-between mt-10">
+          <div class="grid grid-cols-2 gap-10 sm:gap-6 sm:grid-cols-5">
+            <div>
+              <img
+                src="../assets/pitgrowth-logo-removebg-preview.png"
+                alt=""
+                class="hidden md:flex"
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/malwation-logo-removebg-preview.png"
+                alt=""
+                class="mt-2 hidden md:flex"
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/gais-logo-removebg-preview.png"
+                alt=""
+                class="w-20 hidden md:flex"
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/turkiye-hayat-emeklilik-logo-removebg-preview.png"
+                alt=""
+                class="w-56 mt-5 lg:-mx-20"
+              />
+            </div>
+            <div>
+              <img
+                src="../assets/nanbis-logo-removebg-preview.png"
+                alt=""
+                class="w-32 mt-4 hidden md:flex"
+              />
+            </div>
           </div>
         </div>
       </div>
